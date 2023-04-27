@@ -1,0 +1,17 @@
+body {
+    background-image: url('./assets/Launching.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.launch__header{
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: center;
+    letter-spacing: 0.25em;
+
+    color: #FFFFFF;
+}
